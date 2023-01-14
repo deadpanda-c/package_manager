@@ -1,4 +1,5 @@
 #pragma once
+#define URL "http://localhost:8000/"
 
 class Kekpm {
     public:
